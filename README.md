@@ -16,3 +16,4 @@
 - Create function for authentification
 - Add Trello board to README
 - Add other contributors
+- Fork the repository
